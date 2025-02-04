@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>ANIMATION</title>
+        <style>
+            body{
+                background-repeat: no-repeat;
+                background-size: 100% 100%;
+                background-attachment: fixed;
+            }
+        </style>
+    </head>
+    <body background="https://img.freepik.com/premium-vector/terrace-with-wooden-fences-with-trees-grass-bush-cool-natural-house-backyard_288411-1651.jpg">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <marquee direction = "right" scrollamount = "15">
+            <img src = "https://media0.giphy.com/media/326iF1qWfsTgKA4c78/source.gif" width = "22%"/>&emsp;&emsp;
+            <img src = "https://th.bing.com/th/id/R.f5800d2d2b8760e1344220b09d3165bb?rik=cZlACF9qi6qMJQ&riu=http%3a%2f%2fi.makeagif.com%2fmedia%2f8-18-2015%2ftyy0Nk.gif&ehk=G4mAFV7MZFO3wvntHB2pZZt%2fY10Kv1UpOuxaSeWYISs%3d&risl=&pid=ImgRaw&r=0" width = "16%"/>
+        </marquee>
+    </body>
+</html>
