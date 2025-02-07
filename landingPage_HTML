@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="landingPage.css"/>
+    <title>Landing Page</title>
+</head>
+<body>
+    <div class="header">
+            <div class="tag">
+                <img src="https://tse1.mm.bing.net/th?id=OIP.9bdjtBUecSgl_KWqKJGUZwHaHa&pid=Api&P=0&h=180" alt="camera">
+            </div>
+            <div class="tag">
+                <h2 class="tag_name" id="template"><b>TEMPLATE</b></h2>
+                <h2 class="tag_name" id="dsgn"><b>DSGN</b></h2>
+            </div>
+    
+            <a href="ABOUT" class="link">ABOUT</a>
+            <a href="DOWNLOAD" class="link">DOWNLOAD</a>
+            <a href="PRICING" class="link">PRICING</a>
+            <a href="FEATURES" class="link">FEATURES</a>
+            <a href="CONTACT" class="link">CONTACT</a>
+            <button class="link">SIGN IN</button>
+    </div>
+    <main>
+        <div>
+            <h1>Welcome.</h1>
+            <input type="search" >
+            <div>
+                <button>FREE TRIAL</button>
+                <button>see more</button>
+            </div>
+        </div>
+        <div>
+            <h3>Landing page.</h3>
+            <p>I want to create a line of text that stands by itself as a paragraph on my landing page. Here’s the line: “This is my landing page” Here’s what it looks like in HTML: This is my landing page I’ve used the “ ” (paragraph) tag to create a paragraph element — the text between the opening and closing tags is paragraph text.</p>
+        </div>
+    </main>
+</body>
+</html>
