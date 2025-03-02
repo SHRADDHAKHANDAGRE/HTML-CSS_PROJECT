@@ -1,0 +1,29 @@
+header{
+    background-color: black;
+    height: 70px;
+}
+img{
+    height: 60px;
+    width: 75px;
+    padding-top: 2px;
+    padding-bottom: 20px;
+}
+.tag{
+    display: inline-block;
+    width: 50px;
+    height: 30px;
+}
+.tag_name{
+    font-size: 17px;
+    display: inline-block;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    line-height: 0em;
+    color: white;
+    height: 18px;
+    margin-top: 2px;
+}
+
+/* .link{
+    
+} */
