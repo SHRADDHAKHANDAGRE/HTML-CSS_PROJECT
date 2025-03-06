@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card Design</title>
+    <link rel="stylesheet" href="ProfileCard.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon" href="logo.png">
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+        </div>
+        <div class="image">
+            <img src="shraddha1.jpg">
+        </div>
+        <div class="content">
+            <div class="name">
+                <h2>Shraddha Khandagre</h2>
+                <h4>Web developer and artist</h4>
+            </div>
+            <div class="social_media">
+                <ul>
+                    <a href="#"><i class="fa-brands fa-facebook" style="color: blue;"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter" style="color:rgb(0, 136, 255) ;"></i></a>
+                    <a href="#"><i class="fa-brands fa-instagram" style="color: red;"></i></a>
+                    <a href="#"><i class="fa-brands fa-youtube" style="color: rgb(220, 74, 21);"></i></a>
+                </ul>
+            </div>
+            <div class="button">
+                <div id="sub"><button>Subscribe</button></div>
+                <div id="msg"><button>Message</button></div>
+            </div>
+            <div class="follow">
+                <div><i class="fa-solid fa-heart"></i><p>60k</p></div>
+                <div><i class="fa-solid fa-message"></i><p style="margin-left: 4px;">20k</p></div>
+                <div><i class="fa-solid fa-share"></i><p>12k</p></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
