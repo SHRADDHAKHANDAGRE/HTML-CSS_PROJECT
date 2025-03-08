@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="surveyform.css"/>
+    <title>Survey Form</title>
+</head>
+<body>
+    <div class="contanier">
+        <div class="box1">
+            <h2>Employee Satisfaction Survey</h2>
+        </div>
+        <hr>
+        <div class="box2">
+            <div class="name">
+                <lable id="name">Name</lable>
+                <br><br>
+                <input type="text" placeholder="First Name" id="firstname">
+                <input type="text" placeholder="Last Name" id="lastname">
+            </div>
+            <br>
+            <br>
+            <div class="email_date">
+                <label id="email">Email</label>
+                <br><br>
+                <input type="email" placeholder="Enter Your Email" id="email">
+            </div>
+            <div class="email_date">
+                <label id="date">Date</label>
+                <br><br>
+                <input type="date" placeholder="dd/mm/yyyy" id="date">
+            </div>
+
+            
+        </div>
+        <div class="last">
+            <p>How would you describe your overall level of job satisfaction?</p>
+        </div>
+    </div>
+</body>
+</html>
