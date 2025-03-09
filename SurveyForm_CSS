@@ -1,0 +1,66 @@
+body {
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.EQMBHHbLZwg7Wpg1y07vuAHaFO&pid=Api&P=0&h=180");
+    background-size: cover;
+}
+
+.contanier{
+    background-image: url("https://tse1.mm.bing.net/th?id=OIP.X91Pd6fmBgyw8RFhdR709gHaEo&pid=Api&P=0&h=180");
+    background-size: contain;
+    height: 400px;
+    width: 500px;
+    /* background-color: rgb(96, 96, 151); */
+    margin: 150px 500px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px black;
+}
+
+.box1{
+    height: 50px;
+    /* background-color: rgb(96, 96, 151); */
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    color: white;
+    /* display: inline-block;
+    font-weight: 100;
+    font-size: 5px; */
+}
+
+.box2{
+    padding-left: 30px;
+    padding-top: 30px;
+    color: white;
+}
+
+.name{
+    padding-top: 10px;
+    text-align: justify;
+}
+
+#lastname{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.email_date{
+    display: inline-block;
+    text-align: justify;
+    margin-right: 50px;
+    /* color: white; */
+}
+
+#date{
+    padding-right: 52px;
+}
+
+.last{
+    padding-top: 80px;  
+    padding-bottom: 10px;
+    padding-left: 30px;
+    color: white;
+}
+
+/* .date{
+    display: inline-block;
+    background-color: bisque;
+} */
