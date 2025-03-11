@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(209, 233, 233);
+    height: 80px;
+}
+.header{
+   display: inline-block;
+}
+img{
+    padding-left: 20px;
+    padding-top: 20px;
+    height: 40px;
+    width: 100px;
+}
+/* #logo{
+    height: 5px;
+    width: 5px;
+    padding-left: 50px;
+} */
+h1{
+    padding-left: 600px;
+    padding-bottom: 30px;
+    font-size: 300;
+}
+
+.dooc{
+    display: inline-block;
+}
+#content{
+    display: inline-block;
+    height: 500px;
+    width: 400px;
+    border: 2px solid gray;
+    padding-top: 5px;
+    /* padding-bottom: 70px; */
+}
+h2{
+    padding-left: 5px;
+}
+.intro{
+    padding-left: 20px;
+}
+.tag{
+    padding-left: 30px;
+}
+#data{
+    display: inline-block;
+    height: 800px;
+    width:1070px;
+    /* margin-left: 25px;
+    padding-top: 0px; */
+}
+.data_head , p{
+    padding-left: 30px;
+    padding-bottom: 2px;
+}
